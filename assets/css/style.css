@@ -1,0 +1,31 @@
+.cup{
+    animation-duration: 1.5s;
+    position: relative;
+}
+.subcon {
+    background-color: tomato;
+    width: 100%;
+    height: 100%;
+
+}
+.myColor{
+    color:#f74d41;
+}
+.mycolor-2{
+    color:  rgb(46, 121, 46);
+
+}
+
+.card-icon{
+    width: 22px;
+}
+
+
+
+.carousel{
+
+    
+
+}
+
+
